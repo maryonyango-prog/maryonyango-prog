@@ -1,3 +1,5 @@
+Hello there...call me Mariah.
+
 # 💫 About Me:
 🔭 I’m currently working on leveling up my dev skills one project at a time <br>👯 I’m looking to collaborate on Cool beginner-friendly projects<br>🤝 I’m looking for help with leveling up my code quality<br>🌱 I’m currently learning JavaScript • React • Python <br>💬 Ask me about Learning to code at lightning speed<br>⚡ Fun fact I learn faster than my WiFi loads
 
